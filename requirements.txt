@@ -1,0 +1,18 @@
+requirements.txt
+# Librerías de Análisis y Visualización
+pandas
+plotly
+dash
+dash-core-components
+dash-html-components
+dash-table
+
+# Librería para manejo de archivos .xlsx
+openpyxl
+
+# Librería para despliegue (PaaS como Render o Railway)
+gunicorn
+
+# ... otras librerías
+openpyxl
+# ...
